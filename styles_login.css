@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(232, 228, 214);
+}
+
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0   0   10px rgba(92,22,20,0.2);
+    max-width: 600px;
+    margin:auto;
+    margin-top: 250px;
+}
+
+.button{
+
+    background-color: ;
+}
